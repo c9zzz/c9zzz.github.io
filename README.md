@@ -6,7 +6,7 @@ B站：https://space.bilibili.com/314196656
 
 QQ群：930333064
 
-访问此链接链接查看储存库并提交更改：
+访问此链接以查看储存库并提交更改：
 
 https://github.com/c9zzz/c9zzz.github.io/tree/main
 
